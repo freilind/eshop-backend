@@ -1,0 +1,6 @@
+{
+    "name": "My eshop-backend development",
+    "port": 3000,
+    "env": "development"
+
+}

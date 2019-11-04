@@ -1,0 +1,10 @@
+{
+    "port": "PORT",
+    "env": "NODE_ENV",
+    "redis_url": "REDIS_URL",
+    "redis_port": "REDIS_PORT",
+    "redis_password": "REDIS_PASSWORD",
+    "googleCert": "GOOGLE_APPLICATION_CREDENTIALS"
+    
+}
+
